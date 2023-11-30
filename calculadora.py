@@ -18,3 +18,4 @@ totalMult = mult(num1, num2)
 print(f'Resultado da soma: {num1} + {num2} = {totalSoma}')
 print(f'Resultado da subtração: {num1} - {num2} = {totalSub}')
 print(f'Resultado da multiplicação: {num1} * {num2} = {totalMult}')
+
