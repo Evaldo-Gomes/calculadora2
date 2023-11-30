@@ -25,3 +25,5 @@ while True:
         num2 = int(valores['Num2'])
         janela['total'].update(calc2.soma(num1, num2))
 janela.close()
+
+#teste
