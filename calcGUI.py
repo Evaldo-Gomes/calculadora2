@@ -7,7 +7,6 @@ layout = [
             [psg.Text('Informe N2: '), psg.InputText(key='Num2')],
             [psg.Text('Operações'), psg.Button(' + '), psg.Button(' - '), psg.Button(' * '), psg.Button(' / '), psg.Button(' Rad '),psg.Text('Somente N1!')],
             [psg.Text('*******'), psg.Text('', key='total'), psg.Text('*******')],
-            #[psg.Button('Calcular'), psg.Button('Limpar')]
             [psg.Button('Limpar')]
             ]
 
